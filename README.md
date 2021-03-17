@@ -1,2 +1,2 @@
-# dai
+# Inferq-Depthai
 ## dai
