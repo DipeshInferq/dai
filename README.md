@@ -3,7 +3,7 @@
 - Introduction
 - Objective
 - Getting Started
-  - Prereqisites
+  - Prerequisites
   - Installation
 - Usage
 - Roadmap
