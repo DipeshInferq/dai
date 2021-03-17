@@ -3,4 +3,11 @@
 - Introduction
   -  introduce me
 - Objective
-- jhdjshj
+- Getting Started
+  - Prereqisites
+  - Installation
+- Usage
+- Roadmap
+- License
+- Contact
+- Acknowledgements  
