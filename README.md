@@ -17,7 +17,7 @@ MobilenetSSD-v2 object detection network trained on COCO dataset is used to dete
 The system is capable of detecting the most commonly used objects in real-time and guiding the user by providing the distance and direction of the detected object from hardware (OAK-D camera) at the initial phase. when the user places the detected object at any other spot( eg.: Table, sofa, or refrigerator), the device will record the spot and guide the user in the future when the particular common object is required, it is assumed that the system is at running phase and the user already had traced the object in the initial phase and took it. The whole system process continues until the next user input.
 
 ## Objective
-
+Here is my objective. Here is my objetcive here is my objective. 
 ## Getting Started
 ### Prerequisites 
 In order to run the Inferq - DAi system, some dependencies are required to be installed in your platform.<br /><br /><br />
