@@ -20,7 +20,7 @@ The system is capable of detecting the most commonly used objects in real-time a
 
 ## Getting Started
 ### Prerequisites 
-In order to run the Inferq - DAi system, some dependencies are required to be installed in your platform.<br /><br />
+In order to run the Inferq - DAi system, some dependencies are required to be installed in your platform.<br /><br /><br />
 **OpenCV**
 ```
 pip install cv2
@@ -30,3 +30,6 @@ For more details about depthai, please refer depthai documentation.
 ```
 pip install depthai
 ```
+
+### Installation
+
