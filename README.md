@@ -25,7 +25,7 @@ In order to run the Inferq - DAi system, some dependencies are required to be in
 ```
 pip install cv2
 ```
-**depth-Ai** <br />
+**Depth-Ai** <br />
 For more details about depthai, please refer depthai documentation.
 ```
 pip install depthai
